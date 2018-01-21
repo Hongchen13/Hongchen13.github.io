@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hc&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://whongchen.com/"/>
+  <updated>2018-01-21T03:55:45.287Z</updated>
+  <id>http://whongchen.com/</id>
+  
+  <author>
+    <name>Hongchen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test for Hexo</title>
+    <link href="http://whongchen.com/hello-world/"/>
+    <id>http://whongchen.com/hello-world/</id>
+    <published>2016-12-07T12:46:25.000Z</published>
+    <updated>2018-01-21T03:55:45.287Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo Test.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hexo Test.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://whongchen.com/categories/Diary/"/>
+    
+    
+      <category term="PS3" scheme="http://whongchen.com/tags/PS3/"/>
+    
+      <category term="Games" scheme="http://whongchen.com/tags/Games/"/>
+    
+  </entry>
+  
+</feed>
