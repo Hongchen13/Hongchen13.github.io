@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://whongchen.com/"/>
-  <updated>2018-01-21T03:55:45.287Z</updated>
+  <updated>2018-01-22T05:25:06.210Z</updated>
   <id>http://whongchen.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first try</title>
+    <link href="http://whongchen.com/first/"/>
+    <id>http://whongchen.com/first/</id>
+    <published>2018-12-07T12:46:25.000Z</published>
+    <updated>2018-01-22T05:25:06.210Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="try"><a href="#try" class="headerlink" title="try"></a>try</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;try&quot;&gt;&lt;a href=&quot;#try&quot; class=&quot;headerlink&quot; title=&quot;try&quot;&gt;&lt;/a&gt;try&lt;/h1&gt;
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://whongchen.com/categories/Diary/"/>
+    
+    
+      <category term="python" scheme="http://whongchen.com/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>Test for Hexo</title>
